@@ -24,7 +24,7 @@ e.g.
 
 * [archee-byte](https://github.com/archee-byte/project-5421-archee) - Building: Fun Quiz Game/ GUI based. 
 * [choy30](https://github.com/choy30/Yjun) - Building: TBD
-* [DanEbrah](https://github.com/DanEbrah/Daniel-E---Project) - Building: TBD
+* [DanEbrah](https://github.com/DanEbrah/Daniel-E---Project) - Building: 2D Football game
 * [Dissapoint](https://github.com/Dissapoint/ISCG5421) - Building: TBD
 * Fedor: ? No GitHub account yet.
 * [ghazi98](https://github.com/ghazi98) - Building: a web based multi choice quiz
