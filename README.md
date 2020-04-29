@@ -28,14 +28,14 @@ e.g.
 
 * [archee-byte](https://github.com/archee-byte/project-5421-archee) - Building: Fun Quiz Game/ GUI based. 
 * [choy30](https://github.com/choy30/Yjun) - Building: TBD
-* [DanEbrah](https://github.com/DanEbrah/Daniel-E---Project) - Building: TBD
+* [DanEbrah](https://github.com/DanEbrah/Daniel-E---Project) - Building: 2D Football game using pyxel.
 * [Dissapoint](https://github.com/Dissapoint/ISCG5421) - Building: A Metroidvania like game using pyxel.
 * [Fedor](https://github.com/fshadrin/5421Project/) : Army themed 2d game using pygame.
 * [ghazi98](https://github.com/ghazi98/Programming-Principles-and-Practice) - Building: a instagram like web app
 * [Ilgo6991](https://github.com/Ilgo6991/python_chat_room) - Building: PyQt5 based single room chat.
 * [J-DAP](https://github.com/J-DAP/ISCG5421Project) - Building: Game - Platformer on Pyxel or Pygame
 * [jaytwis](https://github.com/jaytwis/JD5421) - Building: TBD
-* [karanina](https://github.com/karanina/ISCG5421-Assignment-1) - Building: Web - Bangle Price Calculator App
+* [karanina](https://github.com/karanina/ISCG5421-Assignment-1) - Building: TBD
 * [khadijamohamed](https://github.com/khadijamohamed/assignment) - Building: TBD
 * [lvernau](https://github.com/lvernau/5421-Assignment-1) - Building: TBD
 * [nuais584](https://github.com/nuais584/Assignment-5421) - Building: 2d type tank game - Example: Shell shock, pocket tanks.
